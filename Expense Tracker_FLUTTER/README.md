@@ -26,4 +26,3 @@
 </Span>
 
 
-- [ ] And much more coming soon!!!
