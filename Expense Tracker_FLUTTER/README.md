@@ -1,5 +1,5 @@
-<h1>Expense Manager</h1>
-<h2>Expense tracker app created in flutter with sqlite support using GetX for statemanagment.</h2>
+<h1>Expense Tracker</h1>
+<h2>Expense Tracker is a powerful and user-friendly mobile application designed to help individuals manage their finances effectively. Built with Flutter, this app enables users to track their spending habits, set budgets, and gain insights into their financial behavior, empowering them to make informed financial decisions. .</h2>
 
 <h3>Homescreen</h3>
 <Span>
@@ -25,17 +25,5 @@
 <img src="https://github.com/ToyZ-95/expense_manager/blob/main/Screenshots/General_2.jpg?raw=true" width="200" height="400"/>
 </Span>
 
-### TODO For This App
-- [x] Add Budget
-- [x] Add Expense
-- [x] View Homescreen
-- [x] View expense log of particular month
-- [x] View remaining budget and expense per/day charts of particular month
-- [x] Save data to sqlite and retrive data from sqlite
-- [x] Slide to delete perticular expense
-- [x] Slide to delete particular date's expenses
-- [ ] Functionality to view budgets between two dates
-- [ ] Compare Two Different Months
-- [ ] Add more charts
-- [ ] Add filters
+
 - [ ] And much more coming soon!!!
