@@ -1,6 +1,4 @@
 <h1>Expense Tracker</h1>
-<h2>Expense Tracker is a powerful and user-friendly mobile application designed to help individuals manage their finances effectively. Built with Flutter, this app enables users to track their spending habits, set budgets, and gain insights into their financial behavior, empowering them to make informed financial decisions. .</h2>
-
 <h3>Homescreen</h3>
 <Span>
 <img src="https://github.com/ToyZ-95/expense_manager/blob/main/Screenshots/HomeScreen_1.jpg?raw=true" width="200" height="400"/>
